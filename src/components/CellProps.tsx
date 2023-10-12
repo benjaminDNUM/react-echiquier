@@ -1,0 +1,3 @@
+type CellProps = {
+  cell: Cell;
+};
